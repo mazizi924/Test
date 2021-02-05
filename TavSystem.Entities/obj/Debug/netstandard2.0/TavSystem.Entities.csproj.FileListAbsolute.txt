@@ -1,0 +1,9 @@
+F:\TavSystem\TavSystem.Entities\bin\Debug\netstandard2.0\TavSystem.Entities.deps.json
+F:\TavSystem\TavSystem.Entities\bin\Debug\netstandard2.0\TavSystem.Entities.dll
+F:\TavSystem\TavSystem.Entities\bin\Debug\netstandard2.0\TavSystem.Entities.pdb
+F:\TavSystem\TavSystem.Entities\obj\Debug\netstandard2.0\TavSystem.Entities.AssemblyInfoInputs.cache
+F:\TavSystem\TavSystem.Entities\obj\Debug\netstandard2.0\TavSystem.Entities.AssemblyInfo.cs
+F:\TavSystem\TavSystem.Entities\obj\Debug\netstandard2.0\TavSystem.Entities.csproj.CoreCompileInputs.cache
+F:\TavSystem\TavSystem.Entities\obj\Debug\netstandard2.0\TavSystem.Entities.dll
+F:\TavSystem\TavSystem.Entities\obj\Debug\netstandard2.0\TavSystem.Entities.pdb
+F:\TavSystem\TavSystem.Entities\obj\Debug\netstandard2.0\TavSystem.Entities.csprojAssemblyReference.cache

@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.11">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TavSystem.DataLayer\TavSystem.DataLayer.csproj" />
+    <ProjectReference Include="..\TavSystem.Entities\TavSystem.Entities.csproj" />
+    <ProjectReference Include="..\TavSystem.IocConfig\TavSystem.IocConfig.csproj" />
+    <ProjectReference Include="..\TavSystem.Models\TavSystem.Models.csproj" />
+    <ProjectReference Include="..\TavSystem.Services\TavSystem.Services.csproj" />
+  </ItemGroup>
+
+
+</Project>

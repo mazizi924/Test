@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.CookiePolicy" Version="2.2.8" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="3.1.11" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="3.1.11" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TavSystem.DataLayer\TavSystem.DataLayer.csproj" />
+    <ProjectReference Include="..\TavSystem.Framework\TavSystem.Framework.csproj" />
+    <ProjectReference Include="..\TavSystem.Services\TavSystem.Services.csproj" />
+  </ItemGroup>
+
+</Project>

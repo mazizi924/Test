@@ -1,0 +1,14 @@
+F:\TavSystem\TavSystem.Framework\bin\Debug\netstandard2.0\TavSystem.Framework.deps.json
+F:\TavSystem\TavSystem.Framework\bin\Debug\netstandard2.0\TavSystem.Framework.dll
+F:\TavSystem\TavSystem.Framework\bin\Debug\netstandard2.0\TavSystem.Framework.pdb
+F:\TavSystem\TavSystem.Framework\bin\Debug\netstandard2.0\TavSystem.Entities.dll
+F:\TavSystem\TavSystem.Framework\bin\Debug\netstandard2.0\TavSystem.Models.dll
+F:\TavSystem\TavSystem.Framework\bin\Debug\netstandard2.0\TavSystem.Entities.pdb
+F:\TavSystem\TavSystem.Framework\bin\Debug\netstandard2.0\TavSystem.Models.pdb
+F:\TavSystem\TavSystem.Framework\obj\Debug\netstandard2.0\TavSystem.Framework.csprojAssemblyReference.cache
+F:\TavSystem\TavSystem.Framework\obj\Debug\netstandard2.0\TavSystem.Framework.AssemblyInfoInputs.cache
+F:\TavSystem\TavSystem.Framework\obj\Debug\netstandard2.0\TavSystem.Framework.AssemblyInfo.cs
+F:\TavSystem\TavSystem.Framework\obj\Debug\netstandard2.0\TavSystem.Framework.csproj.CoreCompileInputs.cache
+F:\TavSystem\TavSystem.Framework\obj\Debug\netstandard2.0\TavSystem.Framework.csproj.CopyComplete
+F:\TavSystem\TavSystem.Framework\obj\Debug\netstandard2.0\TavSystem.Framework.dll
+F:\TavSystem\TavSystem.Framework\obj\Debug\netstandard2.0\TavSystem.Framework.pdb

@@ -1,0 +1,16 @@
+F:\TavSystem\TavSystem.Services\bin\Debug\netstandard2.0\TavSystem.Services.deps.json
+F:\TavSystem\TavSystem.Services\bin\Debug\netstandard2.0\TavSystem.Services.dll
+F:\TavSystem\TavSystem.Services\bin\Debug\netstandard2.0\TavSystem.Services.pdb
+F:\TavSystem\TavSystem.Services\obj\Debug\netstandard2.0\TavSystem.Services.csprojAssemblyReference.cache
+F:\TavSystem\TavSystem.Services\obj\Debug\netstandard2.0\TavSystem.Services.AssemblyInfoInputs.cache
+F:\TavSystem\TavSystem.Services\obj\Debug\netstandard2.0\TavSystem.Services.AssemblyInfo.cs
+F:\TavSystem\TavSystem.Services\obj\Debug\netstandard2.0\TavSystem.Services.csproj.CoreCompileInputs.cache
+F:\TavSystem\TavSystem.Services\obj\Debug\netstandard2.0\TavSystem.Services.dll
+F:\TavSystem\TavSystem.Services\obj\Debug\netstandard2.0\TavSystem.Services.pdb
+F:\TavSystem\TavSystem.Services\bin\Debug\netstandard2.0\TavSystem.DataLayer.dll
+F:\TavSystem\TavSystem.Services\bin\Debug\netstandard2.0\TavSystem.Entities.dll
+F:\TavSystem\TavSystem.Services\bin\Debug\netstandard2.0\TavSystem.Models.dll
+F:\TavSystem\TavSystem.Services\bin\Debug\netstandard2.0\TavSystem.DataLayer.pdb
+F:\TavSystem\TavSystem.Services\bin\Debug\netstandard2.0\TavSystem.Models.pdb
+F:\TavSystem\TavSystem.Services\bin\Debug\netstandard2.0\TavSystem.Entities.pdb
+F:\TavSystem\TavSystem.Services\obj\Debug\netstandard2.0\TavSystem.Services.csproj.CopyComplete
