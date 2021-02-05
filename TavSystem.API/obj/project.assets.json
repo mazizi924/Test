@@ -6119,11 +6119,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\TavSystem\\TavSystem.API\\TavSystem.API.csproj",
+      "projectUniqueName": "C:\\Users\\MahboubehJooon\\Desktop\\TavSystem\\TavSystem.API\\TavSystem.API.csproj",
       "projectName": "TavSystem.API",
-      "projectPath": "F:\\TavSystem\\TavSystem.API\\TavSystem.API.csproj",
+      "projectPath": "C:\\Users\\MahboubehJooon\\Desktop\\TavSystem\\TavSystem.API\\TavSystem.API.csproj",
       "packagesPath": "C:\\Users\\MahboubehJooon\\.nuget\\packages\\",
-      "outputPath": "F:\\TavSystem\\TavSystem.API\\obj\\",
+      "outputPath": "C:\\Users\\MahboubehJooon\\Desktop\\TavSystem\\TavSystem.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6143,20 +6143,20 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "F:\\TavSystem\\TavSystem.DataLayer\\TavSystem.DataLayer.csproj": {
-              "projectPath": "F:\\TavSystem\\TavSystem.DataLayer\\TavSystem.DataLayer.csproj"
+            "C:\\Users\\MahboubehJooon\\Desktop\\TavSystem\\TavSystem.DataLayer\\TavSystem.DataLayer.csproj": {
+              "projectPath": "C:\\Users\\MahboubehJooon\\Desktop\\TavSystem\\TavSystem.DataLayer\\TavSystem.DataLayer.csproj"
             },
-            "F:\\TavSystem\\TavSystem.Entities\\TavSystem.Entities.csproj": {
-              "projectPath": "F:\\TavSystem\\TavSystem.Entities\\TavSystem.Entities.csproj"
+            "C:\\Users\\MahboubehJooon\\Desktop\\TavSystem\\TavSystem.Entities\\TavSystem.Entities.csproj": {
+              "projectPath": "C:\\Users\\MahboubehJooon\\Desktop\\TavSystem\\TavSystem.Entities\\TavSystem.Entities.csproj"
             },
-            "F:\\TavSystem\\TavSystem.IocConfig\\TavSystem.IocConfig.csproj": {
-              "projectPath": "F:\\TavSystem\\TavSystem.IocConfig\\TavSystem.IocConfig.csproj"
+            "C:\\Users\\MahboubehJooon\\Desktop\\TavSystem\\TavSystem.IocConfig\\TavSystem.IocConfig.csproj": {
+              "projectPath": "C:\\Users\\MahboubehJooon\\Desktop\\TavSystem\\TavSystem.IocConfig\\TavSystem.IocConfig.csproj"
             },
-            "F:\\TavSystem\\TavSystem.Models\\TavSystem.Models.csproj": {
-              "projectPath": "F:\\TavSystem\\TavSystem.Models\\TavSystem.Models.csproj"
+            "C:\\Users\\MahboubehJooon\\Desktop\\TavSystem\\TavSystem.Models\\TavSystem.Models.csproj": {
+              "projectPath": "C:\\Users\\MahboubehJooon\\Desktop\\TavSystem\\TavSystem.Models\\TavSystem.Models.csproj"
             },
-            "F:\\TavSystem\\TavSystem.Services\\TavSystem.Services.csproj": {
-              "projectPath": "F:\\TavSystem\\TavSystem.Services\\TavSystem.Services.csproj"
+            "C:\\Users\\MahboubehJooon\\Desktop\\TavSystem\\TavSystem.Services\\TavSystem.Services.csproj": {
+              "projectPath": "C:\\Users\\MahboubehJooon\\Desktop\\TavSystem\\TavSystem.Services\\TavSystem.Services.csproj"
             }
           }
         }

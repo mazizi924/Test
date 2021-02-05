@@ -7,3 +7,12 @@ F:\TavSystem\TavSystem.Models\obj\Debug\netstandard2.0\TavSystem.Models.csproj.C
 F:\TavSystem\TavSystem.Models\obj\Debug\netstandard2.0\TavSystem.Models.dll
 F:\TavSystem\TavSystem.Models\obj\Debug\netstandard2.0\TavSystem.Models.pdb
 F:\TavSystem\TavSystem.Models\obj\Debug\netstandard2.0\TavSystem.Models.csprojAssemblyReference.cache
+C:\Users\MahboubehJooon\Desktop\TavSystem\TavSystem.Models\bin\Debug\netstandard2.0\TavSystem.Models.deps.json
+C:\Users\MahboubehJooon\Desktop\TavSystem\TavSystem.Models\bin\Debug\netstandard2.0\TavSystem.Models.dll
+C:\Users\MahboubehJooon\Desktop\TavSystem\TavSystem.Models\bin\Debug\netstandard2.0\TavSystem.Models.pdb
+C:\Users\MahboubehJooon\Desktop\TavSystem\TavSystem.Models\obj\Debug\netstandard2.0\TavSystem.Models.csprojAssemblyReference.cache
+C:\Users\MahboubehJooon\Desktop\TavSystem\TavSystem.Models\obj\Debug\netstandard2.0\TavSystem.Models.AssemblyInfoInputs.cache
+C:\Users\MahboubehJooon\Desktop\TavSystem\TavSystem.Models\obj\Debug\netstandard2.0\TavSystem.Models.AssemblyInfo.cs
+C:\Users\MahboubehJooon\Desktop\TavSystem\TavSystem.Models\obj\Debug\netstandard2.0\TavSystem.Models.csproj.CoreCompileInputs.cache
+C:\Users\MahboubehJooon\Desktop\TavSystem\TavSystem.Models\obj\Debug\netstandard2.0\TavSystem.Models.dll
+C:\Users\MahboubehJooon\Desktop\TavSystem\TavSystem.Models\obj\Debug\netstandard2.0\TavSystem.Models.pdb

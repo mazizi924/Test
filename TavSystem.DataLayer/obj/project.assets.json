@@ -6247,11 +6247,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\TavSystem\\TavSystem.DataLayer\\TavSystem.DataLayer.csproj",
+      "projectUniqueName": "C:\\Users\\MahboubehJooon\\Desktop\\TavSystem\\TavSystem.DataLayer\\TavSystem.DataLayer.csproj",
       "projectName": "TavSystem.DataLayer",
-      "projectPath": "F:\\TavSystem\\TavSystem.DataLayer\\TavSystem.DataLayer.csproj",
+      "projectPath": "C:\\Users\\MahboubehJooon\\Desktop\\TavSystem\\TavSystem.DataLayer\\TavSystem.DataLayer.csproj",
       "packagesPath": "C:\\Users\\MahboubehJooon\\.nuget\\packages\\",
-      "outputPath": "F:\\TavSystem\\TavSystem.DataLayer\\obj\\",
+      "outputPath": "C:\\Users\\MahboubehJooon\\Desktop\\TavSystem\\TavSystem.DataLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6271,11 +6271,11 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "projectReferences": {
-            "F:\\TavSystem\\TavSystem.Entities\\TavSystem.Entities.csproj": {
-              "projectPath": "F:\\TavSystem\\TavSystem.Entities\\TavSystem.Entities.csproj"
+            "C:\\Users\\MahboubehJooon\\Desktop\\TavSystem\\TavSystem.Entities\\TavSystem.Entities.csproj": {
+              "projectPath": "C:\\Users\\MahboubehJooon\\Desktop\\TavSystem\\TavSystem.Entities\\TavSystem.Entities.csproj"
             },
-            "F:\\TavSystem\\TavSystem.Models\\TavSystem.Models.csproj": {
-              "projectPath": "F:\\TavSystem\\TavSystem.Models\\TavSystem.Models.csproj"
+            "C:\\Users\\MahboubehJooon\\Desktop\\TavSystem\\TavSystem.Models\\TavSystem.Models.csproj": {
+              "projectPath": "C:\\Users\\MahboubehJooon\\Desktop\\TavSystem\\TavSystem.Models\\TavSystem.Models.csproj"
             }
           }
         }

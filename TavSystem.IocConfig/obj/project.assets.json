@@ -6546,11 +6546,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\TavSystem\\TavSystem.IocConfig\\TavSystem.IocConfig.csproj",
+      "projectUniqueName": "C:\\Users\\MahboubehJooon\\Desktop\\TavSystem\\TavSystem.IocConfig\\TavSystem.IocConfig.csproj",
       "projectName": "TavSystem.IocConfig",
-      "projectPath": "F:\\TavSystem\\TavSystem.IocConfig\\TavSystem.IocConfig.csproj",
+      "projectPath": "C:\\Users\\MahboubehJooon\\Desktop\\TavSystem\\TavSystem.IocConfig\\TavSystem.IocConfig.csproj",
       "packagesPath": "C:\\Users\\MahboubehJooon\\.nuget\\packages\\",
-      "outputPath": "F:\\TavSystem\\TavSystem.IocConfig\\obj\\",
+      "outputPath": "C:\\Users\\MahboubehJooon\\Desktop\\TavSystem\\TavSystem.IocConfig\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6570,14 +6570,14 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "projectReferences": {
-            "F:\\TavSystem\\TavSystem.DataLayer\\TavSystem.DataLayer.csproj": {
-              "projectPath": "F:\\TavSystem\\TavSystem.DataLayer\\TavSystem.DataLayer.csproj"
+            "C:\\Users\\MahboubehJooon\\Desktop\\TavSystem\\TavSystem.DataLayer\\TavSystem.DataLayer.csproj": {
+              "projectPath": "C:\\Users\\MahboubehJooon\\Desktop\\TavSystem\\TavSystem.DataLayer\\TavSystem.DataLayer.csproj"
             },
-            "F:\\TavSystem\\TavSystem.Framework\\TavSystem.Framework.csproj": {
-              "projectPath": "F:\\TavSystem\\TavSystem.Framework\\TavSystem.Framework.csproj"
+            "C:\\Users\\MahboubehJooon\\Desktop\\TavSystem\\TavSystem.Framework\\TavSystem.Framework.csproj": {
+              "projectPath": "C:\\Users\\MahboubehJooon\\Desktop\\TavSystem\\TavSystem.Framework\\TavSystem.Framework.csproj"
             },
-            "F:\\TavSystem\\TavSystem.Services\\TavSystem.Services.csproj": {
-              "projectPath": "F:\\TavSystem\\TavSystem.Services\\TavSystem.Services.csproj"
+            "C:\\Users\\MahboubehJooon\\Desktop\\TavSystem\\TavSystem.Services\\TavSystem.Services.csproj": {
+              "projectPath": "C:\\Users\\MahboubehJooon\\Desktop\\TavSystem\\TavSystem.Services\\TavSystem.Services.csproj"
             }
           }
         }

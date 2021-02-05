@@ -20,3 +20,17 @@ F:\TavSystem\TavSystem.DataLayer\obj\Debug\netstandard2.0\TavSystem.DataLayer.dl
 F:\TavSystem\TavSystem.DataLayer\obj\Debug\netstandard2.0\TavSystem.DataLayer.pdb
 F:\TavSystem\TavSystem.DataLayer\bin\Debug\netstandard2.0\TavSystem.Models.dll
 F:\TavSystem\TavSystem.DataLayer\bin\Debug\netstandard2.0\TavSystem.Models.pdb
+C:\Users\MahboubehJooon\Desktop\TavSystem\TavSystem.DataLayer\bin\Debug\netstandard2.0\TavSystem.DataLayer.deps.json
+C:\Users\MahboubehJooon\Desktop\TavSystem\TavSystem.DataLayer\bin\Debug\netstandard2.0\TavSystem.DataLayer.dll
+C:\Users\MahboubehJooon\Desktop\TavSystem\TavSystem.DataLayer\bin\Debug\netstandard2.0\TavSystem.DataLayer.pdb
+C:\Users\MahboubehJooon\Desktop\TavSystem\TavSystem.DataLayer\bin\Debug\netstandard2.0\TavSystem.Entities.dll
+C:\Users\MahboubehJooon\Desktop\TavSystem\TavSystem.DataLayer\bin\Debug\netstandard2.0\TavSystem.Models.dll
+C:\Users\MahboubehJooon\Desktop\TavSystem\TavSystem.DataLayer\bin\Debug\netstandard2.0\TavSystem.Entities.pdb
+C:\Users\MahboubehJooon\Desktop\TavSystem\TavSystem.DataLayer\bin\Debug\netstandard2.0\TavSystem.Models.pdb
+C:\Users\MahboubehJooon\Desktop\TavSystem\TavSystem.DataLayer\obj\Debug\netstandard2.0\TavSystem.DataLayer.csprojAssemblyReference.cache
+C:\Users\MahboubehJooon\Desktop\TavSystem\TavSystem.DataLayer\obj\Debug\netstandard2.0\TavSystem.DataLayer.AssemblyInfoInputs.cache
+C:\Users\MahboubehJooon\Desktop\TavSystem\TavSystem.DataLayer\obj\Debug\netstandard2.0\TavSystem.DataLayer.AssemblyInfo.cs
+C:\Users\MahboubehJooon\Desktop\TavSystem\TavSystem.DataLayer\obj\Debug\netstandard2.0\TavSystem.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\MahboubehJooon\Desktop\TavSystem\TavSystem.DataLayer\obj\Debug\netstandard2.0\TavSystem.DataLayer.csproj.CopyComplete
+C:\Users\MahboubehJooon\Desktop\TavSystem\TavSystem.DataLayer\obj\Debug\netstandard2.0\TavSystem.DataLayer.dll
+C:\Users\MahboubehJooon\Desktop\TavSystem\TavSystem.DataLayer\obj\Debug\netstandard2.0\TavSystem.DataLayer.pdb

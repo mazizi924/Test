@@ -1044,11 +1044,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\TavSystem\\TavSystem.Entities\\TavSystem.Entities.csproj",
+      "projectUniqueName": "C:\\Users\\MahboubehJooon\\Desktop\\TavSystem\\TavSystem.Entities\\TavSystem.Entities.csproj",
       "projectName": "TavSystem.Entities",
-      "projectPath": "F:\\TavSystem\\TavSystem.Entities\\TavSystem.Entities.csproj",
+      "projectPath": "C:\\Users\\MahboubehJooon\\Desktop\\TavSystem\\TavSystem.Entities\\TavSystem.Entities.csproj",
       "packagesPath": "C:\\Users\\MahboubehJooon\\.nuget\\packages\\",
-      "outputPath": "F:\\TavSystem\\TavSystem.Entities\\obj\\",
+      "outputPath": "C:\\Users\\MahboubehJooon\\Desktop\\TavSystem\\TavSystem.Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

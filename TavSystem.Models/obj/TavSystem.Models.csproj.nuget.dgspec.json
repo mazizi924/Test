@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\TavSystem\\TavSystem.Models\\TavSystem.Models.csproj": {}
+    "C:\\Users\\MahboubehJooon\\Desktop\\TavSystem\\TavSystem.Models\\TavSystem.Models.csproj": {}
   },
   "projects": {
-    "F:\\TavSystem\\TavSystem.Models\\TavSystem.Models.csproj": {
+    "C:\\Users\\MahboubehJooon\\Desktop\\TavSystem\\TavSystem.Models\\TavSystem.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\TavSystem\\TavSystem.Models\\TavSystem.Models.csproj",
+        "projectUniqueName": "C:\\Users\\MahboubehJooon\\Desktop\\TavSystem\\TavSystem.Models\\TavSystem.Models.csproj",
         "projectName": "TavSystem.Models",
-        "projectPath": "F:\\TavSystem\\TavSystem.Models\\TavSystem.Models.csproj",
+        "projectPath": "C:\\Users\\MahboubehJooon\\Desktop\\TavSystem\\TavSystem.Models\\TavSystem.Models.csproj",
         "packagesPath": "C:\\Users\\MahboubehJooon\\.nuget\\packages\\",
-        "outputPath": "F:\\TavSystem\\TavSystem.Models\\obj\\",
+        "outputPath": "C:\\Users\\MahboubehJooon\\Desktop\\TavSystem\\TavSystem.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

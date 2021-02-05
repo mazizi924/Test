@@ -37,7 +37,8 @@ namespace TavSystem.Services.Services
 
         public Response<IEnumerable<InventoryInfoDto>> GetAll(int pageNumber, int pageSize)
         {
-            return _inventoryRepository.GetAll(pageNumber, pageSize);
+            var result= _inventoryRepository.GetAll(pageNumber, pageSize); 
+            return result;
         }
     }
 }

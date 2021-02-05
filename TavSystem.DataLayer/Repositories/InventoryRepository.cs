@@ -46,7 +46,7 @@ namespace TavSystem.DataLayer.Repositories
              
             return new Response<IEnumerable<InventoryInfoDto>>()
             {
-                Data= result,
+                Data=  result  ,
                 Paging=new Paging() { PageNumber=pageNumber,PageSize=pageSize,Total=total},
             }; 
         }
